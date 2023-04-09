@@ -354,7 +354,7 @@
     {
         "id": 427,
         "name": "Ivern",
-        "tier": "b",
+        "tier": "c",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ivern.webp",
         "plugins": []
@@ -442,7 +442,7 @@
     {
         "id": 30,
         "name": "Karthus",
-        "tier": "b",
+        "tier": "a",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Karthus.webp",
         "plugins": []
@@ -514,7 +514,7 @@
     {
         "id": 96,
         "name": "KogMaw",
-        "tier": "a",
+        "tier": "s",
         "role": "adc",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/KogMaw.webp",
         "plugins": []
@@ -682,7 +682,7 @@
     {
         "id": 76,
         "name": "Nidalee",
-        "tier": "b",
+        "tier": "a",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nidalee.webp",
         "plugins": []
@@ -714,7 +714,7 @@
     {
         "id": 2,
         "name": "Olaf",
-        "tier": "c",
+        "tier": "b",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Olaf.webp",
         "plugins": []
