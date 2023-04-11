@@ -147,7 +147,7 @@
         "id": 164,
         "name": "Camille",
         "tier": "c",
-        "role": "mid",
+        "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Camille.webp",
         "plugins": []
     },
@@ -715,7 +715,7 @@
         "id": 2,
         "name": "Olaf",
         "tier": "b",
-        "role": "jungle",
+        "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Olaf.webp",
         "plugins": []
     },
