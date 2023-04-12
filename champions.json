@@ -266,7 +266,7 @@
     {
         "id": 3,
         "name": "Galio",
-        "tier": "d",
+        "tier": "x",
         "role": "mid",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Galio.webp",
         "plugins": []
