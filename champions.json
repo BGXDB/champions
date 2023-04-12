@@ -714,7 +714,7 @@
     {
         "id": 2,
         "name": "Olaf",
-        "tier": "b",
+        "tier": "a",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Olaf.webp",
         "plugins": []
@@ -1082,7 +1082,7 @@
     {
         "id": 77,
         "name": "Udyr",
-        "tier": "s",
+        "tier": "a",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Udyr.webp",
         "plugins": []
