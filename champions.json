@@ -322,7 +322,7 @@
     {
         "id": 120,
         "name": "Hecarim",
-        "tier": "c",
+        "tier": "a",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Hecarim.webp",
         "plugins": []
@@ -714,7 +714,7 @@
     {
         "id": 2,
         "name": "Olaf",
-        "tier": "a",
+        "tier": "s",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Olaf.webp",
         "plugins": []
@@ -1042,7 +1042,7 @@
     {
         "id": 18,
         "name": "Tristana",
-        "tier": "a",
+        "tier": "s",
         "role": "adc",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Tristana.webp",
         "plugins": []
