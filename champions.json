@@ -266,7 +266,7 @@
     {
         "id": 3,
         "name": "Galio",
-        "tier": "x",
+        "tier": "c",
         "role": "mid",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Galio.webp",
         "plugins": []
@@ -922,7 +922,7 @@
     {
         "id": 27,
         "name": "Singed",
-        "tier": "x",
+        "tier": "d",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Singed.webp",
         "plugins": []
