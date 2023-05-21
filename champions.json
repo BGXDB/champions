@@ -706,7 +706,7 @@
     {
         "id": 20,
         "name": "Nunu",
-        "tier": "a",
+        "tier": "b",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nunu.webp",
         "plugins": []
