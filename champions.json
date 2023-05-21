@@ -298,7 +298,7 @@
     {
         "id": 79,
         "name": "Gragas",
-        "tier": "d",
+        "tier": "c",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Gragas.webp",
         "plugins": []
@@ -306,7 +306,7 @@
     {
         "id": 104,
         "name": "Graves",
-        "tier": "d",
+        "tier": "b",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Graves.webp",
         "plugins": []
