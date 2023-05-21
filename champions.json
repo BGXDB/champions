@@ -210,7 +210,7 @@
     {
         "id": 245,
         "name": "Ekko",
-        "tier": "d",
+        "tier": "c",
         "role": "jungle",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ekko.webp",
         "plugins": []
