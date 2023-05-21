@@ -282,7 +282,7 @@
     {
         "id": 86,
         "name": "Garen",
-        "tier": "c",
+        "tier": "b",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Garen.webp",
         "plugins": []
@@ -586,7 +586,7 @@
     {
         "id": 54,
         "name": "Malphite",
-        "tier": "b",
+        "tier": "c",
         "role": "top",
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Malphite.webp",
         "plugins": []
