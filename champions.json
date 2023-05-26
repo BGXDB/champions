@@ -42,7 +42,7 @@
     {
         "id": 32,
         "name": "Amumu",
-        "tier": "a",
+        "tier": "b",
         "roles": ["jungle", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Amumu.webp",
         "plugins": []
@@ -338,7 +338,7 @@
     {
         "id": 420,
         "name": "Illaoi",
-        "tier": "a",
+        "tier": "b",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Illaoi.webp",
         "plugins": []
@@ -370,7 +370,7 @@
     {
         "id": 59,
         "name": "JarvanIV",
-        "tier": "b",
+        "tier": "c",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/JarvanIV.webp",
         "plugins": []
@@ -442,7 +442,7 @@
     {
         "id": 30,
         "name": "Karthus",
-        "tier": "a",
+        "tier": "b",
         "roles": ["jungle", "adc", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Karthus.webp",
         "plugins": []
@@ -634,7 +634,7 @@
     {
         "id": 82,
         "name": "Mordekaiser",
-        "tier": "a",
+        "tier": "b",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Mordekaiser.webp",
         "plugins": []
@@ -682,7 +682,7 @@
     {
         "id": 76,
         "name": "Nidalee",
-        "tier": "a",
+        "tier": "b",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nidalee.webp",
         "plugins": []
@@ -706,7 +706,7 @@
     {
         "id": 20,
         "name": "Nunu",
-        "tier": "b",
+        "tier": "c",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nunu.webp",
         "plugins": []
@@ -738,7 +738,7 @@
     {
         "id": 80,
         "name": "Pantheon",
-        "tier": "d",
+        "tier": "c",
         "roles": ["top", "mid", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Pantheon.webp",
         "plugins": []
@@ -770,7 +770,7 @@
     {
         "id": 133,
         "name": "Quinn",
-        "tier": "a",
+        "tier": "b",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Quinn.webp",
         "plugins": []
@@ -786,7 +786,7 @@
     {
         "id": 33,
         "name": "Rammus",
-        "tier": "b",
+        "tier": "c",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rammus.webp",
         "plugins": []
@@ -866,7 +866,7 @@
     {
         "id": 113,
         "name": "Sejuani",
-        "tier": "a",
+        "tier": "b",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sejuani.webp",
         "plugins": []
@@ -946,7 +946,7 @@
     {
         "id": 72,
         "name": "Skarner",
-        "tier": "d",
+        "tier": "c",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Skarner.webp",
         "plugins": []
@@ -1002,7 +1002,7 @@
     {
         "id": 163,
         "name": "Taliyah",
-        "tier": "b",
+        "tier": "a",
         "roles": ["mid", "jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Taliyah.webp",
         "plugins": []
@@ -1090,7 +1090,7 @@
     {
         "id": 6,
         "name": "Urgot",
-        "tier": "d",
+        "tier": "c",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Urgot.webp",
         "plugins": []
@@ -1186,7 +1186,7 @@
     {
         "id": 62,
         "name": "MonkeyKing",
-        "tier": "d",
+        "tier": "c",
         "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/MonkeyKing.webp",
         "plugins": []
@@ -1210,7 +1210,7 @@
     {
         "id": 5,
         "name": "XinZhao",
-        "tier": "d",
+        "tier": "c",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/XinZhao.webp",
         "plugins": []
@@ -1234,7 +1234,7 @@
     {
         "id": 83,
         "name": "Yorick",
-        "tier": "d",
+        "tier": "c",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Yorick.webp",
         "plugins": []
@@ -1250,7 +1250,7 @@
     {
         "id": 154,
         "name": "Zac",
-        "tier": "a",
+        "tier": "b",
         "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zac.webp",
         "plugins": []
