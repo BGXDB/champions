@@ -3,7 +3,7 @@
         "id": 266,
         "name": "Aatrox",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Aatrox.webp",
         "plugins": []
     },
@@ -11,7 +11,7 @@
         "id": 103,
         "name": "Ahri",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ahri.webp",
         "plugins": []
     },
@@ -19,7 +19,7 @@
         "id": 84,
         "name": "Akali",
         "tier": "a",
-        "role": "mid",
+        "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Akali.webp",
         "plugins": []
     },
@@ -27,7 +27,7 @@
         "id": 166,
         "name": "Akshan",
         "tier": "d",
-        "role": "mid",
+        "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Akshan.webp",
         "plugins": []
     },
@@ -35,7 +35,7 @@
         "id": 12,
         "name": "Alistar",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Alistar.webp",
         "plugins": []
     },
@@ -43,7 +43,7 @@
         "id": 32,
         "name": "Amumu",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Amumu.webp",
         "plugins": []
     },
@@ -51,7 +51,7 @@
         "id": 34,
         "name": "Anivia",
         "tier": "d",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Anivia.webp",
         "plugins": []
     },
@@ -59,7 +59,7 @@
         "id": 1,
         "name": "Annie",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Annie.webp",
         "plugins": []
     },
@@ -67,7 +67,7 @@
         "id": 523,
         "name": "Aphelios",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Aphelios.webp",
         "plugins": []
     },
@@ -75,7 +75,7 @@
         "id": 22,
         "name": "Ashe",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ashe.webp",
         "plugins": []
     },
@@ -83,7 +83,7 @@
         "id": 136,
         "name": "AurelionSol",
         "tier": "d",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/AurelionSol.webp",
         "plugins": []
     },
@@ -91,7 +91,7 @@
         "id": 268,
         "name": "Azir",
         "tier": "d",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Azir.webp",
         "plugins": []
     },
@@ -99,7 +99,7 @@
         "id": 432,
         "name": "Bard",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Bard.webp",
         "plugins": []
     },
@@ -107,7 +107,7 @@
         "id": 200,
         "name": "Belveth",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Belveth.webp",
         "plugins": []
     },
@@ -115,7 +115,7 @@
         "id": 53,
         "name": "Blitzcrank",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Blitzcrank.webp",
         "plugins": []
     },
@@ -123,7 +123,7 @@
         "id": 63,
         "name": "Brand",
         "tier": "a",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Brand.webp",
         "plugins": []
     },
@@ -131,7 +131,7 @@
         "id": 201,
         "name": "Braum",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Braum.webp",
         "plugins": []
     },
@@ -139,7 +139,7 @@
         "id": 51,
         "name": "Caitlyn",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Caitlyn.webp",
         "plugins": []
     },
@@ -147,7 +147,7 @@
         "id": 164,
         "name": "Camille",
         "tier": "b",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Camille.webp",
         "plugins": []
     },
@@ -155,7 +155,7 @@
         "id": 69,
         "name": "Cassiopeia",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Cassiopeia.webp",
         "plugins": []
     },
@@ -163,7 +163,7 @@
         "id": 31,
         "name": "ChoGath",
         "tier": "b",
-        "role": "top",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Chogath.webp",
         "plugins": []
     },
@@ -171,7 +171,7 @@
         "id": 42,
         "name": "Corki",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Corki.webp",
         "plugins": []
     },
@@ -179,7 +179,7 @@
         "id": 122,
         "name": "Darius",
         "tier": "s",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Darius.webp",
         "plugins": []
     },
@@ -187,7 +187,7 @@
         "id": 131,
         "name": "Diana",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Diana.webp",
         "plugins": []
     },
@@ -195,7 +195,7 @@
         "id": 36,
         "name": "DrMundo",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/DrMundo.webp",
         "plugins": []
     },
@@ -203,7 +203,7 @@
         "id": 119,
         "name": "Draven",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Draven.webp",
         "plugins": []
     },
@@ -211,7 +211,7 @@
         "id": 245,
         "name": "Ekko",
         "tier": "c",
-        "role": "jungle",
+        "roles": ["jungle", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ekko.webp",
         "plugins": []
     },
@@ -219,7 +219,7 @@
         "id": 60,
         "name": "Elise",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Elise.webp",
         "plugins": []
     },
@@ -227,7 +227,7 @@
         "id": 28,
         "name": "Evelynn",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Evelynn.webp",
         "plugins": []
     },
@@ -235,7 +235,7 @@
         "id": 81,
         "name": "Ezreal",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ezreal.webp",
         "plugins": []
     },
@@ -243,7 +243,7 @@
         "id": 9,
         "name": "Fiddlesticks",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["jungle", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Fiddlesticks.webp",
         "plugins": []
     },
@@ -251,7 +251,7 @@
         "id": 114,
         "name": "Fiora",
         "tier": "b",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Fiora.webp",
         "plugins": []
     },
@@ -259,7 +259,7 @@
         "id": 105,
         "name": "Fizz",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Fizz.webp",
         "plugins": []
     },
@@ -267,7 +267,7 @@
         "id": 3,
         "name": "Galio",
         "tier": "c",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Galio.webp",
         "plugins": []
     },
@@ -275,7 +275,7 @@
         "id": 41,
         "name": "Gangplank",
         "tier": "b",
-        "role": "top",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Gangplank.webp",
         "plugins": []
     },
@@ -283,7 +283,7 @@
         "id": 86,
         "name": "Garen",
         "tier": "b",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Garen.webp",
         "plugins": []
     },
@@ -291,7 +291,7 @@
         "id": 150,
         "name": "Gnar",
         "tier": "c",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Gnar.webp",
         "plugins": []
     },
@@ -299,7 +299,7 @@
         "id": 79,
         "name": "Gragas",
         "tier": "c",
-        "role": "jungle",
+        "roles": ["jungle", "top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Gragas.webp",
         "plugins": []
     },
@@ -307,7 +307,7 @@
         "id": 104,
         "name": "Graves",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Graves.webp",
         "plugins": []
     },
@@ -315,7 +315,7 @@
         "id": 887,
         "name": "Gwen",
         "tier": "a",
-        "role": "top",
+        "roles": [   ],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Gwen.webp",
         "plugins": []
     },
@@ -323,7 +323,7 @@
         "id": 120,
         "name": "Hecarim",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Hecarim.webp",
         "plugins": []
     },
@@ -331,7 +331,7 @@
         "id": 74,
         "name": "Heimerdinger",
         "tier": "c",
-        "role": "mid",
+        "roles": ["support", "top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Heimerdinger.webp",
         "plugins": []
     },
@@ -339,7 +339,7 @@
         "id": 420,
         "name": "Illaoi",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Illaoi.webp",
         "plugins": []
     },
@@ -347,7 +347,7 @@
         "id": 39,
         "name": "Irelia",
         "tier": "s",
-        "role": "mid",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Irelia.webp",
         "plugins": []
     },
@@ -355,7 +355,7 @@
         "id": 427,
         "name": "Ivern",
         "tier": "c",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ivern.webp",
         "plugins": []
     },
@@ -363,7 +363,7 @@
         "id": 40,
         "name": "Janna",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Janna.webp",
         "plugins": []
     },
@@ -371,7 +371,7 @@
         "id": 59,
         "name": "JarvanIV",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/JarvanIV.webp",
         "plugins": []
     },
@@ -379,7 +379,7 @@
         "id": 24,
         "name": "Jax",
         "tier": "s",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Jax.webp",
         "plugins": []
     },
@@ -387,7 +387,7 @@
         "id": 126,
         "name": "Jayce",
         "tier": "s",
-        "role": "top",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Jayce.webp",
         "plugins": []
     },
@@ -395,7 +395,7 @@
         "id": 202,
         "name": "Jhin",
         "tier": "a",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Jhin.webp",
         "plugins": []
     },
@@ -403,7 +403,7 @@
         "id": 222,
         "name": "Jinx",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Jinx.webp",
         "plugins": []
     },
@@ -411,7 +411,7 @@
         "id": 897,
         "name": "KSante",
         "tier": "b",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/KSante.webp",
         "plugins": []
     },
@@ -419,7 +419,7 @@
         "id": 145,
         "name": "KaiSa",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kaisa.webp",
         "plugins": []
     },
@@ -427,7 +427,7 @@
         "id": 429,
         "name": "Kalista",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kalista.webp",
         "plugins": []
     },
@@ -435,7 +435,7 @@
         "id": 43,
         "name": "Karma",
         "tier": "a",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Karma.webp",
         "plugins": []
     },
@@ -443,7 +443,7 @@
         "id": 30,
         "name": "Karthus",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle", "adc", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Karthus.webp",
         "plugins": []
     },
@@ -451,7 +451,7 @@
         "id": 38,
         "name": "Kassadin",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kassadin.webp",
         "plugins": []
     },
@@ -459,7 +459,7 @@
         "id": 55,
         "name": "Katarina",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Katarina.webp",
         "plugins": []
     },
@@ -467,7 +467,7 @@
         "id": 10,
         "name": "Kayle",
         "tier": "s",
-        "role": "top",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kayle.webp",
         "plugins": []
     },
@@ -475,7 +475,7 @@
         "id": 141,
         "name": "Kayn",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kayn.webp",
         "plugins": []
     },
@@ -483,7 +483,7 @@
         "id": 85,
         "name": "Kennen",
         "tier": "b",
-        "role": "top",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kennen.webp",
         "plugins": []
     },
@@ -491,7 +491,7 @@
         "id": 121,
         "name": "KhaZix",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Khazix.webp",
         "plugins": []
     },
@@ -499,7 +499,7 @@
         "id": 203,
         "name": "Kindred",
         "tier": "s",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kindred.webp",
         "plugins": []
     },
@@ -507,7 +507,7 @@
         "id": 240,
         "name": "Kled",
         "tier": "d",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Kled.webp",
         "plugins": []
     },
@@ -515,7 +515,7 @@
         "id": 96,
         "name": "KogMaw",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/KogMaw.webp",
         "plugins": []
     },
@@ -523,7 +523,7 @@
         "id": 7,
         "name": "LeBlanc",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Leblanc.webp",
         "plugins": []
     },
@@ -531,7 +531,7 @@
         "id": 64,
         "name": "LeeSin",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/LeeSin.webp",
         "plugins": []
     },
@@ -539,7 +539,7 @@
         "id": 89,
         "name": "Leona",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Leona.webp",
         "plugins": []
     },
@@ -547,7 +547,7 @@
         "id": 876,
         "name": "Lillia",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Lillia.webp",
         "plugins": []
     },
@@ -555,7 +555,7 @@
         "id": 127,
         "name": "Lissandra",
         "tier": "c",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Lissandra.webp",
         "plugins": []
     },
@@ -563,7 +563,7 @@
         "id": 236,
         "name": "Lucian",
         "tier": "a",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Lucian.webp",
         "plugins": []
     },
@@ -571,7 +571,7 @@
         "id": 117,
         "name": "Lulu",
         "tier": "s",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Lulu.webp",
         "plugins": []
     },
@@ -579,7 +579,7 @@
         "id": 99,
         "name": "Lux",
         "tier": "a",
-        "role": "support",
+        "roles": ["support", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Lux.webp",
         "plugins": []
     },
@@ -587,7 +587,7 @@
         "id": 54,
         "name": "Malphite",
         "tier": "c",
-        "role": "top",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Malphite.webp",
         "plugins": []
     },
@@ -595,7 +595,7 @@
         "id": 90,
         "name": "Malzahar",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Malzahar.webp",
         "plugins": []
     },
@@ -603,7 +603,7 @@
         "id": 57,
         "name": "Maokai",
         "tier": "b",
-        "role": "support",
+        "roles": ["jungle", "support", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Maokai.webp",
         "plugins": []
     },
@@ -611,7 +611,7 @@
         "id": 11,
         "name": "MasterYi",
         "tier": "s",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/MasterYi.webp",
         "plugins": []
     },
@@ -619,7 +619,7 @@
         "id": 902,
         "name": "Milio",
         "tier": "a",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Milio.webp",
         "plugins": []
     },
@@ -627,7 +627,7 @@
         "id": 21,
         "name": "MissFortune",
         "tier": "a",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/MissFortune.webp",
         "plugins": []
     },
@@ -635,7 +635,7 @@
         "id": 82,
         "name": "Mordekaiser",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Mordekaiser.webp",
         "plugins": []
     },
@@ -643,7 +643,7 @@
         "id": 25,
         "name": "Morgana",
         "tier": "a",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Morgana.webp",
         "plugins": []
     },
@@ -651,7 +651,7 @@
         "id": 267,
         "name": "Nami",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nami.webp",
         "plugins": []
     },
@@ -659,7 +659,7 @@
         "id": 75,
         "name": "Nasus",
         "tier": "b",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nasus.webp",
         "plugins": []
     },
@@ -667,7 +667,7 @@
         "id": 111,
         "name": "Nautilus",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nautilus.webp",
         "plugins": []
     },
@@ -675,7 +675,7 @@
         "id": 518,
         "name": "Neeko",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Neeko.webp",
         "plugins": []
     },
@@ -683,7 +683,7 @@
         "id": 76,
         "name": "Nidalee",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nidalee.webp",
         "plugins": []
     },
@@ -691,7 +691,7 @@
         "id": 895,
         "name": "Nilah",
         "tier": "a",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nilah.webp",
         "plugins": []
     },
@@ -699,7 +699,7 @@
         "id": 56,
         "name": "Nocturne",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nocturne.webp",
         "plugins": []
     },
@@ -707,7 +707,7 @@
         "id": 20,
         "name": "Nunu",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nunu.webp",
         "plugins": []
     },
@@ -715,7 +715,7 @@
         "id": 2,
         "name": "Olaf",
         "tier": "s",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Olaf.webp",
         "plugins": []
     },
@@ -723,7 +723,7 @@
         "id": 61,
         "name": "Orianna",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Orianna.webp",
         "plugins": []
     },
@@ -731,7 +731,7 @@
         "id": 516,
         "name": "Ornn",
         "tier": "c",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ornn.webp",
         "plugins": []
     },
@@ -739,7 +739,7 @@
         "id": 80,
         "name": "Pantheon",
         "tier": "d",
-        "role": "support",
+        "roles": ["top", "mid", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Pantheon.webp",
         "plugins": []
     },
@@ -747,7 +747,7 @@
         "id": 78,
         "name": "Poppy",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["top", "jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Poppy.webp",
         "plugins": []
     },
@@ -755,7 +755,7 @@
         "id": 555,
         "name": "Pyke",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Pyke.webp",
         "plugins": []
     },
@@ -763,7 +763,7 @@
         "id": 246,
         "name": "Qiyana",
         "tier": "c",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Qiyana.webp",
         "plugins": []
     },
@@ -771,7 +771,7 @@
         "id": 133,
         "name": "Quinn",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Quinn.webp",
         "plugins": []
     },
@@ -779,7 +779,7 @@
         "id": 497,
         "name": "Rakan",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rakan.webp",
         "plugins": []
     },
@@ -787,7 +787,7 @@
         "id": 33,
         "name": "Rammus",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rammus.webp",
         "plugins": []
     },
@@ -795,7 +795,7 @@
         "id": 421,
         "name": "RekSai",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/RekSai.webp",
         "plugins": []
     },
@@ -803,7 +803,7 @@
         "id": 526,
         "name": "Rell",
         "tier": "d",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rell.webp",
         "plugins": []
     },
@@ -811,7 +811,7 @@
         "id": 888,
         "name": "Renata",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Renata.webp",
         "plugins": []
     },
@@ -819,7 +819,7 @@
         "id": 58,
         "name": "Renekton",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Renekton.webp",
         "plugins": []
     },
@@ -827,7 +827,7 @@
         "id": 107,
         "name": "Rengar",
         "tier": "s",
-        "role": "jungle",
+        "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rengar.webp",
         "plugins": []
     },
@@ -835,7 +835,7 @@
         "id": 92,
         "name": "Riven",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Riven.webp",
         "plugins": []
     },
@@ -843,7 +843,7 @@
         "id": 68,
         "name": "Rumble",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["top", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rumble.webp",
         "plugins": []
     },
@@ -851,7 +851,7 @@
         "id": 13,
         "name": "Ryze",
         "tier": "a",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ryze.webp",
         "plugins": []
     },
@@ -859,7 +859,7 @@
         "id": 360,
         "name": "Samira",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Samira.webp",
         "plugins": []
     },
@@ -867,7 +867,7 @@
         "id": 113,
         "name": "Sejuani",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sejuani.webp",
         "plugins": []
     },
@@ -875,7 +875,7 @@
         "id": 235,
         "name": "Senna",
         "tier": "s",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Senna.webp",
         "plugins": []
     },
@@ -883,7 +883,7 @@
         "id": 147,
         "name": "Seraphine",
         "tier": "c",
-        "role": "support",
+        "roles": ["support", "adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Seraphine.webp",
         "plugins": []
     },
@@ -891,7 +891,7 @@
         "id": 875,
         "name": "Sett",
         "tier": "b",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sett.webp",
         "plugins": []
     },
@@ -899,7 +899,7 @@
         "id": 35,
         "name": "Shaco",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["jungle", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Shaco.webp",
         "plugins": []
     },
@@ -907,7 +907,7 @@
         "id": 98,
         "name": "Shen",
         "tier": "c",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Shen.webp",
         "plugins": []
     },
@@ -915,7 +915,7 @@
         "id": 102,
         "name": "Shyvana",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Shyvana.webp",
         "plugins": []
     },
@@ -923,7 +923,7 @@
         "id": 27,
         "name": "Singed",
         "tier": "d",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Singed.webp",
         "plugins": []
     },
@@ -931,7 +931,7 @@
         "id": 14,
         "name": "Sion",
         "tier": "d",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sion.webp",
         "plugins": []
     },
@@ -939,7 +939,7 @@
         "id": 15,
         "name": "Sivir",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sivir.webp",
         "plugins": []
     },
@@ -947,7 +947,7 @@
         "id": 72,
         "name": "Skarner",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Skarner.webp",
         "plugins": []
     },
@@ -955,7 +955,7 @@
         "id": 37,
         "name": "Sona",
         "tier": "c",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sona.webp",
         "plugins": []
     },
@@ -963,7 +963,7 @@
         "id": 16,
         "name": "Soraka",
         "tier": "a",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Soraka.webp",
         "plugins": []
     },
@@ -971,7 +971,7 @@
         "id": 50,
         "name": "Swain",
         "tier": "a",
-        "role": "support",
+        "roles": ["support", "mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Swain.webp",
         "plugins": []
     },
@@ -979,7 +979,7 @@
         "id": 517,
         "name": "Sylas",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sylas.webp",
         "plugins": []
     },
@@ -987,7 +987,7 @@
         "id": 134,
         "name": "Syndra",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Syndra.webp",
         "plugins": []
     },
@@ -995,7 +995,7 @@
         "id": 223,
         "name": "TahmKench",
         "tier": "c",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/TahmKench.webp",
         "plugins": []
     },
@@ -1003,7 +1003,7 @@
         "id": 163,
         "name": "Taliyah",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["mid", "jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Taliyah.webp",
         "plugins": []
     },
@@ -1011,7 +1011,7 @@
         "id": 91,
         "name": "Talon",
         "tier": "a",
-        "role": "mid",
+        "roles": ["mid", "jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Talon.webp",
         "plugins": []
     },
@@ -1019,7 +1019,7 @@
         "id": 44,
         "name": "Taric",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Taric.webp",
         "plugins": []
     },
@@ -1027,7 +1027,7 @@
         "id": 17,
         "name": "Teemo",
         "tier": "s",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Teemo.webp",
         "plugins": []
     },
@@ -1035,7 +1035,7 @@
         "id": 412,
         "name": "Thresh",
         "tier": "a",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Thresh.webp",
         "plugins": []
     },
@@ -1043,7 +1043,7 @@
         "id": 18,
         "name": "Tristana",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Tristana.webp",
         "plugins": []
     },
@@ -1051,7 +1051,7 @@
         "id": 48,
         "name": "Trundle",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Trundle.webp",
         "plugins": []
     },
@@ -1059,7 +1059,7 @@
         "id": 23,
         "name": "Tryndamere",
         "tier": "a",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Tryndamere.webp",
         "plugins": []
     },
@@ -1067,7 +1067,7 @@
         "id": 4,
         "name": "TwistedFate",
         "tier": "c",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/TwistedFate.webp",
         "plugins": []
     },
@@ -1075,7 +1075,7 @@
         "id": 29,
         "name": "Twitch",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Twitch.webp",
         "plugins": []
     },
@@ -1083,7 +1083,7 @@
         "id": 77,
         "name": "Udyr",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Udyr.webp",
         "plugins": []
     },
@@ -1091,7 +1091,7 @@
         "id": 6,
         "name": "Urgot",
         "tier": "d",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Urgot.webp",
         "plugins": []
     },
@@ -1099,7 +1099,7 @@
         "id": 110,
         "name": "Varus",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Varus.webp",
         "plugins": []
     },
@@ -1107,7 +1107,7 @@
         "id": 67,
         "name": "Vayne",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Vayne.webp",
         "plugins": []
     },
@@ -1115,7 +1115,7 @@
         "id": 45,
         "name": "Veigar",
         "tier": "c",
-        "role": "mid",
+        "roles": ["mid", "adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Veigar.webp",
         "plugins": []
     },
@@ -1123,7 +1123,7 @@
         "id": 161,
         "name": "VelKoz",
         "tier": "b",
-        "role": "mid",
+        "roles": ["support", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Velkoz.webp",
         "plugins": []
     },
@@ -1131,7 +1131,7 @@
         "id": 711,
         "name": "Vex",
         "tier": "a",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Vex.webp",
         "plugins": []
     },
@@ -1139,7 +1139,7 @@
         "id": 254,
         "name": "Vi",
         "tier": "b",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Vi.webp",
         "plugins": []
     },
@@ -1147,7 +1147,7 @@
         "id": 234,
         "name": "Viego",
         "tier": "s",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Viego.webp",
         "plugins": []
     },
@@ -1155,7 +1155,7 @@
         "id": 112,
         "name": "Viktor",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Viktor.webp",
         "plugins": []
     },
@@ -1163,7 +1163,7 @@
         "id": 8,
         "name": "Vladimir",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Vladimir.webp",
         "plugins": []
     },
@@ -1171,7 +1171,7 @@
         "id": 106,
         "name": "Volibear",
         "tier": "d",
-        "role": "top",
+        "roles": ["top", "jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Volibear.webp",
         "plugins": []
     },
@@ -1179,7 +1179,7 @@
         "id": 19,
         "name": "Warwick",
         "tier": "c",
-        "role": "jungle",
+        "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Warwick.webp",
         "plugins": []
     },
@@ -1187,7 +1187,7 @@
         "id": 62,
         "name": "MonkeyKing",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/MonkeyKing.webp",
         "plugins": []
     },
@@ -1195,7 +1195,7 @@
         "id": 498,
         "name": "Xayah",
         "tier": "a",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Xayah.webp",
         "plugins": []
     },
@@ -1203,7 +1203,7 @@
         "id": 101,
         "name": "Xerath",
         "tier": "s",
-        "role": "support",
+        "roles": ["support", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Xerath.webp",
         "plugins": []
     },
@@ -1211,7 +1211,7 @@
         "id": 5,
         "name": "XinZhao",
         "tier": "d",
-        "role": "jungle",
+        "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/XinZhao.webp",
         "plugins": []
     },
@@ -1219,7 +1219,7 @@
         "id": 157,
         "name": "Yasuo",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid", "top", "adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Yasuo.webp",
         "plugins": []
     },
@@ -1227,7 +1227,7 @@
         "id": 777,
         "name": "Yone",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Yone.webp",
         "plugins": []
     },
@@ -1235,7 +1235,7 @@
         "id": 83,
         "name": "Yorick",
         "tier": "d",
-        "role": "top",
+        "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Yorick.webp",
         "plugins": []
     },
@@ -1243,7 +1243,7 @@
         "id": 350,
         "name": "Yuumi",
         "tier": "s",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Yuumi.webp",
         "plugins": []
     },
@@ -1251,7 +1251,7 @@
         "id": 154,
         "name": "Zac",
         "tier": "a",
-        "role": "jungle",
+        "roles": ["jungle", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zac.webp",
         "plugins": []
     },
@@ -1259,7 +1259,7 @@
         "id": 238,
         "name": "Zed",
         "tier": "s",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zed.webp",
         "plugins": []
     },
@@ -1267,7 +1267,7 @@
         "id": 221,
         "name": "Zeri",
         "tier": "s",
-        "role": "adc",
+        "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zeri.webp",
         "plugins": []
     },
@@ -1275,7 +1275,7 @@
         "id": 115,
         "name": "Ziggs",
         "tier": "b",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ziggs.webp",
         "plugins": []
     },
@@ -1283,7 +1283,7 @@
         "id": 26,
         "name": "Zilean",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zilean.webp",
         "plugins": []
     },
@@ -1291,7 +1291,7 @@
         "id": 142,
         "name": "Zoe",
         "tier": "a",
-        "role": "mid",
+        "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zoe.webp",
         "plugins": []
     },
@@ -1299,7 +1299,7 @@
         "id": 143,
         "name": "Zyra",
         "tier": "b",
-        "role": "support",
+        "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zyra.webp",
         "plugins": []
     }
