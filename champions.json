@@ -98,7 +98,7 @@
     {
         "id": 432,
         "name": "Bard",
-        "tier": "b",
+        "tier": "c",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Bard.webp",
         "plugins": []
@@ -434,7 +434,7 @@
     {
         "id": 43,
         "name": "Karma",
-        "tier": "a",
+        "tier": "b",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Karma.webp",
         "plugins": []
@@ -578,7 +578,7 @@
     {
         "id": 99,
         "name": "Lux",
-        "tier": "a",
+        "tier": "b",
         "roles": ["support", "mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Lux.webp",
         "plugins": []
@@ -754,7 +754,7 @@
     {
         "id": 555,
         "name": "Pyke",
-        "tier": "c",
+        "tier": "a",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Pyke.webp",
         "plugins": []
@@ -938,7 +938,7 @@
     {
         "id": 15,
         "name": "Sivir",
-        "tier": "s",
+        "tier": "a",
         "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sivir.webp",
         "plugins": []
@@ -1034,7 +1034,7 @@
     {
         "id": 412,
         "name": "Thresh",
-        "tier": "a",
+        "tier": "b",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Thresh.webp",
         "plugins": []
@@ -1242,7 +1242,7 @@
     {
         "id": 350,
         "name": "Yuumi",
-        "tier": "s",
+        "tier": "a",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Yuumi.webp",
         "plugins": []
@@ -1258,7 +1258,7 @@
     {
         "id": 238,
         "name": "Zed",
-        "tier": "s",
+        "tier": "a",
         "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Zed.webp",
         "plugins": []
