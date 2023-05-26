@@ -978,7 +978,7 @@
     {
         "id": 517,
         "name": "Sylas",
-        "tier": "s",
+        "tier": "a",
         "roles": ["mid", "top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sylas.webp",
         "plugins": []
