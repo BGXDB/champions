@@ -666,7 +666,7 @@
     {
         "id": 111,
         "name": "Nautilus",
-        "tier": "c",
+        "tier": "b",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Nautilus.webp",
         "plugins": []
@@ -802,7 +802,7 @@
     {
         "id": 526,
         "name": "Rell",
-        "tier": "d",
+        "tier": "c",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Rell.webp",
         "plugins": []
@@ -818,7 +818,7 @@
     {
         "id": 58,
         "name": "Renekton",
-        "tier": "a",
+        "tier": "b",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Renekton.webp",
         "plugins": []
@@ -834,7 +834,7 @@
     {
         "id": 92,
         "name": "Riven",
-        "tier": "a",
+        "tier": "b",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Riven.webp",
         "plugins": []
@@ -882,7 +882,7 @@
     {
         "id": 147,
         "name": "Seraphine",
-        "tier": "c",
+        "tier": "b",
         "roles": ["support", "adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Seraphine.webp",
         "plugins": []
@@ -930,7 +930,7 @@
     {
         "id": 14,
         "name": "Sion",
-        "tier": "d",
+        "tier": "c",
         "roles": ["top"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Sion.webp",
         "plugins": []
