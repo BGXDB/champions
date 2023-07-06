@@ -10,7 +10,7 @@
     {
         "id": 103,
         "name": "Ahri",
-        "tier": "b",
+        "tier": "a",
         "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Ahri.webp",
         "plugins": []
@@ -114,7 +114,7 @@
     {
         "id": 53,
         "name": "Blitzcrank",
-        "tier": "c",
+        "tier": "a",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/Blitzcrank.webp",
         "plugins": []
@@ -1066,7 +1066,7 @@
     {
         "id": 4,
         "name": "TwistedFate",
-        "tier": "c",
+        "tier": "a",
         "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/TwistedFate.webp",
         "plugins": []
@@ -1210,7 +1210,7 @@
     {
         "id": 5,
         "name": "XinZhao",
-        "tier": "c",
+        "tier": "a",
         "roles": ["jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.6.1/img/champion/XinZhao.webp",
         "plugins": []
