@@ -1308,6 +1308,7 @@
         "name": "Naafiri",
         "tier": "c",
         "roles": ["jungle"],
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.14.1/img/champion/Naafiri.webp",
         "plugins": []
     }
 ]
