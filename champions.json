@@ -1307,8 +1307,16 @@
         "id": 950,
         "name": "Naafiri",
         "tier": "c",
-        "roles": ["jungle"],
+        "roles": ["mid", "top", "jungle"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Naafiri.webp",
+        "plugins": []
+    },
+    {
+        "id": 233,
+        "name": "Briar",
+        "tier": "c",
+        "roles": ["jungle"],
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.18.1/img/champion/Briar.webp",
         "plugins": []
     }
 ]
