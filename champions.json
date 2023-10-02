@@ -50,7 +50,7 @@
     {
         "id": 34,
         "name": "Anivia",
-        "tier": "d",
+        "tier": "b",
         "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Anivia.webp",
         "plugins": []
@@ -1298,7 +1298,7 @@
     {
         "id": 143,
         "name": "Zyra",
-        "tier": "b",
+        "tier": "c",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Zyra.webp",
         "plugins": []
