@@ -738,7 +738,7 @@
     {
         "id": 80,
         "name": "Pantheon",
-        "tier": "c",
+        "tier": "a",
         "roles": ["top", "mid", "support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Pantheon.webp",
         "plugins": []
