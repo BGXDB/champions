@@ -50,7 +50,7 @@
     {
         "id": 34,
         "name": "Anivia",
-        "tier": "b",
+        "tier": "a",
         "roles": ["mid"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Anivia.webp",
         "plugins": []
@@ -938,7 +938,7 @@
     {
         "id": 15,
         "name": "Sivir",
-        "tier": "a",
+        "tier": "s",
         "roles": ["adc"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Sivir.webp",
         "plugins": []
@@ -962,7 +962,7 @@
     {
         "id": 16,
         "name": "Soraka",
-        "tier": "a",
+        "tier": "b",
         "roles": ["support"],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.17.1/img/champion/Soraka.webp",
         "plugins": []
