@@ -4,7 +4,7 @@
         "name": "Aatrox",
         "tier": "a",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Aatrox.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Aatrox.webp",
         "plugins": []
     },
     {
@@ -12,7 +12,7 @@
         "name": "Ahri",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ahri.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ahri.webp",
         "plugins": []
     },
     {
@@ -20,7 +20,7 @@
         "name": "Akali",
         "tier": "a",
         "roles": ["mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Akali.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Akali.webp",
         "plugins": []
     },
     {
@@ -28,7 +28,7 @@
         "name": "Akshan",
         "tier": "d",
         "roles": ["mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Akshan.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Akshan.webp",
         "plugins": []
     },
     {
@@ -36,7 +36,7 @@
         "name": "Alistar",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Alistar.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Alistar.webp",
         "plugins": []
     },
     {
@@ -44,7 +44,7 @@
         "name": "Amumu",
         "tier": "b",
         "roles": ["jungle", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Amumu.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Amumu.webp",
         "plugins": []
     },
     {
@@ -52,7 +52,7 @@
         "name": "Anivia",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Anivia.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Anivia.webp",
         "plugins": []
     },
     {
@@ -60,7 +60,7 @@
         "name": "Annie",
         "tier": "b",
         "roles": ["mid", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Annie.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Annie.webp",
         "plugins": []
     },
     {
@@ -68,7 +68,7 @@
         "name": "Aphelios",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Aphelios.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Aphelios.webp",
         "plugins": []
     },
     {
@@ -76,7 +76,7 @@
         "name": "Ashe",
         "tier": "s",
         "roles": ["adc", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ashe.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ashe.webp",
         "plugins": []
     },
     {
@@ -84,7 +84,7 @@
         "name": "AurelionSol",
         "tier": "",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/AurelionSol.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/AurelionSol.webp",
         "plugins": []
     },
     {
@@ -92,7 +92,7 @@
         "name": "Azir",
         "tier": "d",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Azir.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Azir.webp",
         "plugins": []
     },
     {
@@ -100,7 +100,7 @@
         "name": "Bard",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Bard.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Bard.webp",
         "plugins": []
     },
     {
@@ -108,7 +108,7 @@
         "name": "Belveth",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Belveth.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Belveth.webp",
         "plugins": []
     },
     {
@@ -116,7 +116,7 @@
         "name": "Blitzcrank",
         "tier": "a",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Blitzcrank.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Blitzcrank.webp",
         "plugins": []
     },
     {
@@ -124,7 +124,7 @@
         "name": "Brand",
         "tier": "a",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Brand.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Brand.webp",
         "plugins": []
     },
     {
@@ -132,7 +132,7 @@
         "name": "Braum",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Braum.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Braum.webp",
         "plugins": []
     },
     {
@@ -140,7 +140,7 @@
         "name": "Caitlyn",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Caitlyn.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Caitlyn.webp",
         "plugins": []
     },
     {
@@ -148,7 +148,7 @@
         "name": "Camille",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Camille.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Camille.webp",
         "plugins": []
     },
     {
@@ -156,7 +156,7 @@
         "name": "Cassiopeia",
         "tier": "s",
         "roles": ["mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Cassiopeia.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Cassiopeia.webp",
         "plugins": []
     },
     {
@@ -164,7 +164,7 @@
         "name": "ChoGath",
         "tier": "b",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Chogath.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Chogath.webp",
         "plugins": []
     },
     {
@@ -172,7 +172,7 @@
         "name": "Corki",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Corki.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Corki.webp",
         "plugins": []
     },
     {
@@ -180,7 +180,7 @@
         "name": "Darius",
         "tier": "s",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Darius.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Darius.webp",
         "plugins": []
     },
     {
@@ -188,7 +188,7 @@
         "name": "Diana",
         "tier": "a",
         "roles": ["jungle", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Diana.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Diana.webp",
         "plugins": []
     },
     {
@@ -196,7 +196,7 @@
         "name": "DrMundo",
         "tier": "a",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/DrMundo.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/DrMundo.webp",
         "plugins": []
     },
     {
@@ -204,7 +204,7 @@
         "name": "Draven",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Draven.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Draven.webp",
         "plugins": []
     },
     {
@@ -212,7 +212,7 @@
         "name": "Ekko",
         "tier": "c",
         "roles": ["jungle", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ekko.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ekko.webp",
         "plugins": []
     },
     {
@@ -220,7 +220,7 @@
         "name": "Elise",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Elise.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Elise.webp",
         "plugins": []
     },
     {
@@ -228,7 +228,7 @@
         "name": "Evelynn",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Evelynn.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Evelynn.webp",
         "plugins": []
     },
     {
@@ -236,7 +236,7 @@
         "name": "Ezreal",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ezreal.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ezreal.webp",
         "plugins": []
     },
     {
@@ -244,7 +244,7 @@
         "name": "Fiddlesticks",
         "tier": "d",
         "roles": ["jungle", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Fiddlesticks.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Fiddlesticks.webp",
         "plugins": []
     },
     {
@@ -252,7 +252,7 @@
         "name": "Fiora",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Fiora.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Fiora.webp",
         "plugins": []
     },
     {
@@ -260,7 +260,7 @@
         "name": "Fizz",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Fizz.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Fizz.webp",
         "plugins": []
     },
     {
@@ -268,7 +268,7 @@
         "name": "Galio",
         "tier": "c",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Galio.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Galio.webp",
         "plugins": []
     },
     {
@@ -276,7 +276,7 @@
         "name": "Gangplank",
         "tier": "b",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Gangplank.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Gangplank.webp",
         "plugins": []
     },
     {
@@ -284,7 +284,7 @@
         "name": "Garen",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Garen.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Garen.webp",
         "plugins": []
     },
     {
@@ -292,7 +292,7 @@
         "name": "Gnar",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Gnar.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Gnar.webp",
         "plugins": []
     },
     {
@@ -300,7 +300,7 @@
         "name": "Gragas",
         "tier": "c",
         "roles": ["jungle", "top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Gragas.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Gragas.webp",
         "plugins": []
     },
     {
@@ -308,7 +308,7 @@
         "name": "Graves",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Graves.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Graves.webp",
         "plugins": []
     },
     {
@@ -316,7 +316,7 @@
         "name": "Gwen",
         "tier": "a",
         "roles": [   ],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Gwen.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Gwen.webp",
         "plugins": []
     },
     {
@@ -324,7 +324,7 @@
         "name": "Hecarim",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Hecarim.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Hecarim.webp",
         "plugins": []
     },
     {
@@ -332,7 +332,7 @@
         "name": "Heimerdinger",
         "tier": "c",
         "roles": ["support", "top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Heimerdinger.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Heimerdinger.webp",
         "plugins": []
     },
     {
@@ -340,7 +340,7 @@
         "name": "Illaoi",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Illaoi.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Illaoi.webp",
         "plugins": []
     },
     {
@@ -348,7 +348,7 @@
         "name": "Irelia",
         "tier": "s",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Irelia.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Irelia.webp",
         "plugins": []
     },
     {
@@ -356,7 +356,7 @@
         "name": "Ivern",
         "tier": "c",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ivern.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ivern.webp",
         "plugins": []
     },
     {
@@ -364,7 +364,7 @@
         "name": "Janna",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Janna.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Janna.webp",
         "plugins": []
     },
     {
@@ -372,7 +372,7 @@
         "name": "JarvanIV",
         "tier": "c",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/JarvanIV.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/JarvanIV.webp",
         "plugins": []
     },
     {
@@ -380,7 +380,7 @@
         "name": "Jax",
         "tier": "s",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Jax.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Jax.webp",
         "plugins": []
     },
     {
@@ -388,7 +388,7 @@
         "name": "Jayce",
         "tier": "s",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Jayce.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Jayce.webp",
         "plugins": []
     },
     {
@@ -396,7 +396,7 @@
         "name": "Jhin",
         "tier": "a",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Jhin.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Jhin.webp",
         "plugins": []
     },
     {
@@ -404,7 +404,7 @@
         "name": "Jinx",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Jinx.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Jinx.webp",
         "plugins": []
     },
     {
@@ -412,7 +412,7 @@
         "name": "KSante",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/KSante.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/KSante.webp",
         "plugins": []
     },
     {
@@ -420,7 +420,7 @@
         "name": "KaiSa",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kaisa.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kaisa.webp",
         "plugins": []
     },
     {
@@ -428,7 +428,7 @@
         "name": "Kalista",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kalista.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kalista.webp",
         "plugins": []
     },
     {
@@ -436,7 +436,7 @@
         "name": "Karma",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Karma.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Karma.webp",
         "plugins": []
     },
     {
@@ -444,7 +444,7 @@
         "name": "Karthus",
         "tier": "b",
         "roles": ["jungle", "adc", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Karthus.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Karthus.webp",
         "plugins": []
     },
     {
@@ -452,7 +452,7 @@
         "name": "Kassadin",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kassadin.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kassadin.webp",
         "plugins": []
     },
     {
@@ -460,7 +460,7 @@
         "name": "Katarina",
         "tier": "s",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Katarina.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Katarina.webp",
         "plugins": []
     },
     {
@@ -468,7 +468,7 @@
         "name": "Kayle",
         "tier": "s",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kayle.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kayle.webp",
         "plugins": []
     },
     {
@@ -476,7 +476,7 @@
         "name": "Kayn",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kayn.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kayn.webp",
         "plugins": []
     },
     {
@@ -484,7 +484,7 @@
         "name": "Kennen",
         "tier": "b",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kennen.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kennen.webp",
         "plugins": []
     },
     {
@@ -492,7 +492,7 @@
         "name": "KhaZix",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Khazix.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Khazix.webp",
         "plugins": []
     },
     {
@@ -500,7 +500,7 @@
         "name": "Kindred",
         "tier": "s",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kindred.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kindred.webp",
         "plugins": []
     },
     {
@@ -508,7 +508,7 @@
         "name": "Kled",
         "tier": "d",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Kled.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Kled.webp",
         "plugins": []
     },
     {
@@ -516,7 +516,7 @@
         "name": "KogMaw",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/KogMaw.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/KogMaw.webp",
         "plugins": []
     },
     {
@@ -524,7 +524,7 @@
         "name": "LeBlanc",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Leblanc.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Leblanc.webp",
         "plugins": []
     },
     {
@@ -532,7 +532,7 @@
         "name": "LeeSin",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/LeeSin.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/LeeSin.webp",
         "plugins": []
     },
     {
@@ -540,7 +540,7 @@
         "name": "Leona",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Leona.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Leona.webp",
         "plugins": []
     },
     {
@@ -548,7 +548,7 @@
         "name": "Lillia",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Lillia.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Lillia.webp",
         "plugins": []
     },
     {
@@ -556,7 +556,7 @@
         "name": "Lissandra",
         "tier": "c",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Lissandra.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Lissandra.webp",
         "plugins": []
     },
     {
@@ -564,7 +564,7 @@
         "name": "Lucian",
         "tier": "a",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Lucian.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Lucian.webp",
         "plugins": []
     },
     {
@@ -572,7 +572,7 @@
         "name": "Lulu",
         "tier": "s",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Lulu.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Lulu.webp",
         "plugins": []
     },
     {
@@ -580,7 +580,7 @@
         "name": "Lux",
         "tier": "b",
         "roles": ["support", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Lux.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Lux.webp",
         "plugins": []
     },
     {
@@ -588,7 +588,7 @@
         "name": "Malphite",
         "tier": "c",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Malphite.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Malphite.webp",
         "plugins": []
     },
     {
@@ -596,7 +596,7 @@
         "name": "Malzahar",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Malzahar.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Malzahar.webp",
         "plugins": []
     },
     {
@@ -604,7 +604,7 @@
         "name": "Maokai",
         "tier": "b",
         "roles": ["jungle", "support", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Maokai.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Maokai.webp",
         "plugins": []
     },
     {
@@ -612,7 +612,7 @@
         "name": "MasterYi",
         "tier": "s",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/MasterYi.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/MasterYi.webp",
         "plugins": []
     },
     {
@@ -620,7 +620,7 @@
         "name": "Milio",
         "tier": "a",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Milio.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Milio.webp",
         "plugins": []
     },
     {
@@ -628,7 +628,7 @@
         "name": "MissFortune",
         "tier": "a",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/MissFortune.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/MissFortune.webp",
         "plugins": []
     },
     {
@@ -636,7 +636,7 @@
         "name": "Mordekaiser",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Mordekaiser.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Mordekaiser.webp",
         "plugins": []
     },
     {
@@ -644,7 +644,7 @@
         "name": "Morgana",
         "tier": "a",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Morgana.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Morgana.webp",
         "plugins": []
     },
     {
@@ -652,7 +652,7 @@
         "name": "Nami",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nami.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nami.webp",
         "plugins": []
     },
     {
@@ -660,7 +660,7 @@
         "name": "Nasus",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nasus.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nasus.webp",
         "plugins": []
     },
     {
@@ -668,7 +668,7 @@
         "name": "Nautilus",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nautilus.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nautilus.webp",
         "plugins": []
     },
     {
@@ -676,7 +676,7 @@
         "name": "Neeko",
         "tier": "b",
         "roles": ["mid", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Neeko.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Neeko.webp",
         "plugins": []
     },
     {
@@ -684,7 +684,7 @@
         "name": "Nidalee",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nidalee.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nidalee.webp",
         "plugins": []
     },
     {
@@ -692,7 +692,7 @@
         "name": "Nilah",
         "tier": "a",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nilah.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nilah.webp",
         "plugins": []
     },
     {
@@ -700,7 +700,7 @@
         "name": "Nocturne",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nocturne.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nocturne.webp",
         "plugins": []
     },
     {
@@ -708,7 +708,7 @@
         "name": "Nunu",
         "tier": "c",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Nunu.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Nunu.webp",
         "plugins": []
     },
     {
@@ -716,7 +716,7 @@
         "name": "Olaf",
         "tier": "s",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Olaf.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Olaf.webp",
         "plugins": []
     },
     {
@@ -724,7 +724,7 @@
         "name": "Orianna",
         "tier": "s",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Orianna.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Orianna.webp",
         "plugins": []
     },
     {
@@ -732,7 +732,7 @@
         "name": "Ornn",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ornn.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ornn.webp",
         "plugins": []
     },
     {
@@ -740,7 +740,7 @@
         "name": "Pantheon",
         "tier": "a",
         "roles": ["top", "mid", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Pantheon.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Pantheon.webp",
         "plugins": []
     },
     {
@@ -748,7 +748,7 @@
         "name": "Poppy",
         "tier": "b",
         "roles": ["top", "jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Poppy.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Poppy.webp",
         "plugins": []
     },
     {
@@ -756,7 +756,7 @@
         "name": "Pyke",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Pyke.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Pyke.webp",
         "plugins": []
     },
     {
@@ -764,7 +764,7 @@
         "name": "Qiyana",
         "tier": "c",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Qiyana.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Qiyana.webp",
         "plugins": []
     },
     {
@@ -772,7 +772,7 @@
         "name": "Quinn",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Quinn.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Quinn.webp",
         "plugins": []
     },
     {
@@ -780,7 +780,7 @@
         "name": "Rakan",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Rakan.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Rakan.webp",
         "plugins": []
     },
     {
@@ -788,7 +788,7 @@
         "name": "Rammus",
         "tier": "c",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Rammus.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Rammus.webp",
         "plugins": []
     },
     {
@@ -796,7 +796,7 @@
         "name": "RekSai",
         "tier": "d",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/RekSai.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/RekSai.webp",
         "plugins": []
     },
     {
@@ -804,7 +804,7 @@
         "name": "Rell",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Rell.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Rell.webp",
         "plugins": []
     },
     {
@@ -812,7 +812,7 @@
         "name": "Renata",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Renata.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Renata.webp",
         "plugins": []
     },
     {
@@ -820,7 +820,7 @@
         "name": "Renekton",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Renekton.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Renekton.webp",
         "plugins": []
     },
     {
@@ -828,7 +828,7 @@
         "name": "Rengar",
         "tier": "s",
         "roles": ["jungle", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Rengar.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Rengar.webp",
         "plugins": []
     },
     {
@@ -836,7 +836,7 @@
         "name": "Riven",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Riven.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Riven.webp",
         "plugins": []
     },
     {
@@ -844,7 +844,7 @@
         "name": "Rumble",
         "tier": "d",
         "roles": ["top", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Rumble.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Rumble.webp",
         "plugins": []
     },
     {
@@ -852,7 +852,7 @@
         "name": "Ryze",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ryze.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ryze.webp",
         "plugins": []
     },
     {
@@ -860,7 +860,7 @@
         "name": "Samira",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Samira.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Samira.webp",
         "plugins": []
     },
     {
@@ -868,7 +868,7 @@
         "name": "Sejuani",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Sejuani.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Sejuani.webp",
         "plugins": []
     },
     {
@@ -876,7 +876,7 @@
         "name": "Senna",
         "tier": "s",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Senna.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Senna.webp",
         "plugins": []
     },
     {
@@ -884,7 +884,7 @@
         "name": "Seraphine",
         "tier": "b",
         "roles": ["support", "adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Seraphine.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Seraphine.webp",
         "plugins": []
     },
     {
@@ -892,7 +892,7 @@
         "name": "Sett",
         "tier": "b",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Sett.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Sett.webp",
         "plugins": []
     },
     {
@@ -900,7 +900,7 @@
         "name": "Shaco",
         "tier": "d",
         "roles": ["jungle", "support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Shaco.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Shaco.webp",
         "plugins": []
     },
     {
@@ -908,7 +908,7 @@
         "name": "Shen",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Shen.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Shen.webp",
         "plugins": []
     },
     {
@@ -916,7 +916,7 @@
         "name": "Shyvana",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Shyvana.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Shyvana.webp",
         "plugins": []
     },
     {
@@ -924,7 +924,7 @@
         "name": "Singed",
         "tier": "d",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Singed.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Singed.webp",
         "plugins": []
     },
     {
@@ -932,7 +932,7 @@
         "name": "Sion",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Sion.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Sion.webp",
         "plugins": []
     },
     {
@@ -940,7 +940,7 @@
         "name": "Sivir",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Sivir.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Sivir.webp",
         "plugins": []
     },
     {
@@ -948,7 +948,15 @@
         "name": "Skarner",
         "tier": "c",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Skarner.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Skarner.webp",
+        "plugins": []
+    },
+    {
+        "id": 901,
+        "name": "Smolder",
+        "tier": "a",
+        "roles": ["adc"],
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Smolder.webp",
         "plugins": []
     },
     {
@@ -956,7 +964,7 @@
         "name": "Sona",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Sona.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Sona.webp",
         "plugins": []
     },
     {
@@ -964,7 +972,7 @@
         "name": "Soraka",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Soraka.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Soraka.webp",
         "plugins": []
     },
     {
@@ -972,7 +980,7 @@
         "name": "Swain",
         "tier": "a",
         "roles": ["support", "mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Swain.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Swain.webp",
         "plugins": []
     },
     {
@@ -980,7 +988,7 @@
         "name": "Sylas",
         "tier": "a",
         "roles": ["mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Sylas.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Sylas.webp",
         "plugins": []
     },
     {
@@ -988,7 +996,7 @@
         "name": "Syndra",
         "tier": "s",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Syndra.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Syndra.webp",
         "plugins": []
     },
     {
@@ -996,7 +1004,7 @@
         "name": "TahmKench",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/TahmKench.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/TahmKench.webp",
         "plugins": []
     },
     {
@@ -1004,7 +1012,7 @@
         "name": "Taliyah",
         "tier": "a",
         "roles": ["mid", "jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Taliyah.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Taliyah.webp",
         "plugins": []
     },
     {
@@ -1012,7 +1020,7 @@
         "name": "Talon",
         "tier": "a",
         "roles": ["mid", "jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Talon.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Talon.webp",
         "plugins": []
     },
     {
@@ -1020,7 +1028,7 @@
         "name": "Taric",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Taric.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Taric.webp",
         "plugins": []
     },
     {
@@ -1028,7 +1036,7 @@
         "name": "Teemo",
         "tier": "s",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Teemo.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Teemo.webp",
         "plugins": []
     },
     {
@@ -1036,7 +1044,7 @@
         "name": "Thresh",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Thresh.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Thresh.webp",
         "plugins": []
     },
     {
@@ -1044,7 +1052,7 @@
         "name": "Tristana",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Tristana.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Tristana.webp",
         "plugins": []
     },
     {
@@ -1052,7 +1060,7 @@
         "name": "Trundle",
         "tier": "b",
         "roles": ["jungle", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Trundle.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Trundle.webp",
         "plugins": []
     },
     {
@@ -1060,7 +1068,7 @@
         "name": "Tryndamere",
         "tier": "a",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Tryndamere.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Tryndamere.webp",
         "plugins": []
     },
     {
@@ -1068,7 +1076,7 @@
         "name": "TwistedFate",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/TwistedFate.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/TwistedFate.webp",
         "plugins": []
     },
     {
@@ -1076,7 +1084,7 @@
         "name": "Twitch",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Twitch.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Twitch.webp",
         "plugins": []
     },
     {
@@ -1084,7 +1092,7 @@
         "name": "Udyr",
         "tier": "a",
         "roles": ["jungle", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Udyr.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Udyr.webp",
         "plugins": []
     },
     {
@@ -1092,7 +1100,7 @@
         "name": "Urgot",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Urgot.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Urgot.webp",
         "plugins": []
     },
     {
@@ -1100,7 +1108,7 @@
         "name": "Varus",
         "tier": "s",
         "roles": ["adc", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Varus.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Varus.webp",
         "plugins": []
     },
     {
@@ -1108,7 +1116,7 @@
         "name": "Vayne",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Vayne.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Vayne.webp",
         "plugins": []
     },
     {
@@ -1116,7 +1124,7 @@
         "name": "Veigar",
         "tier": "c",
         "roles": ["mid", "adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Veigar.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Veigar.webp",
         "plugins": []
     },
     {
@@ -1124,7 +1132,7 @@
         "name": "VelKoz",
         "tier": "b",
         "roles": ["support", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Velkoz.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Velkoz.webp",
         "plugins": []
     },
     {
@@ -1132,7 +1140,7 @@
         "name": "Vex",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Vex.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Vex.webp",
         "plugins": []
     },
     {
@@ -1140,7 +1148,7 @@
         "name": "Vi",
         "tier": "b",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Vi.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Vi.webp",
         "plugins": []
     },
     {
@@ -1148,7 +1156,7 @@
         "name": "Viego",
         "tier": "s",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Viego.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Viego.webp",
         "plugins": []
     },
     {
@@ -1156,7 +1164,7 @@
         "name": "Viktor",
         "tier": "s",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Viktor.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Viktor.webp",
         "plugins": []
     },
     {
@@ -1164,7 +1172,7 @@
         "name": "Vladimir",
         "tier": "b",
         "roles": ["mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Vladimir.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Vladimir.webp",
         "plugins": []
     },
     {
@@ -1172,7 +1180,7 @@
         "name": "Volibear",
         "tier": "d",
         "roles": ["top", "jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Volibear.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Volibear.webp",
         "plugins": []
     },
     {
@@ -1180,7 +1188,7 @@
         "name": "Warwick",
         "tier": "c",
         "roles": ["jungle", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Warwick.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Warwick.webp",
         "plugins": []
     },
     {
@@ -1188,7 +1196,7 @@
         "name": "MonkeyKing",
         "tier": "c",
         "roles": ["jungle", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/MonkeyKing.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/MonkeyKing.webp",
         "plugins": []
     },
     {
@@ -1196,7 +1204,7 @@
         "name": "Xayah",
         "tier": "a",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Xayah.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Xayah.webp",
         "plugins": []
     },
     {
@@ -1204,7 +1212,7 @@
         "name": "Xerath",
         "tier": "s",
         "roles": ["support", "mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Xerath.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Xerath.webp",
         "plugins": []
     },
     {
@@ -1212,7 +1220,7 @@
         "name": "XinZhao",
         "tier": "a",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/XinZhao.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/XinZhao.webp",
         "plugins": []
     },
     {
@@ -1220,7 +1228,7 @@
         "name": "Yasuo",
         "tier": "s",
         "roles": ["mid", "top", "adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Yasuo.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Yasuo.webp",
         "plugins": []
     },
     {
@@ -1228,7 +1236,7 @@
         "name": "Yone",
         "tier": "s",
         "roles": ["mid", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Yone.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Yone.webp",
         "plugins": []
     },
     {
@@ -1236,7 +1244,7 @@
         "name": "Yorick",
         "tier": "c",
         "roles": ["top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Yorick.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Yorick.webp",
         "plugins": []
     },
     {
@@ -1244,7 +1252,7 @@
         "name": "Yuumi",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Yuumi.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Yuumi.webp",
         "plugins": []
     },
     {
@@ -1252,7 +1260,7 @@
         "name": "Zac",
         "tier": "b",
         "roles": ["jungle", "top"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Zac.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Zac.webp",
         "plugins": []
     },
     {
@@ -1260,7 +1268,7 @@
         "name": "Zed",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Zed.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Zed.webp",
         "plugins": []
     },
     {
@@ -1268,7 +1276,7 @@
         "name": "Zeri",
         "tier": "s",
         "roles": ["adc"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Zeri.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Zeri.webp",
         "plugins": []
     },
     {
@@ -1276,7 +1284,7 @@
         "name": "Ziggs",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Ziggs.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Ziggs.webp",
         "plugins": []
     },
     {
@@ -1284,7 +1292,7 @@
         "name": "Zilean",
         "tier": "b",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Zilean.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Zilean.webp",
         "plugins": []
     },
     {
@@ -1292,7 +1300,7 @@
         "name": "Zoe",
         "tier": "a",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Zoe.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Zoe.webp",
         "plugins": []
     },
     {
@@ -1300,7 +1308,7 @@
         "name": "Zyra",
         "tier": "c",
         "roles": ["support"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Zyra.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Zyra.webp",
         "plugins": []
     },
     {
@@ -1308,7 +1316,7 @@
         "name": "Naafiri",
         "tier": "",
         "roles": ["mid", "top", "jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Naafiri.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Naafiri.webp",
         "plugins": []
     },
     {
@@ -1316,7 +1324,7 @@
         "name": "Briar",
         "tier": "",
         "roles": ["jungle"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Briar.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Briar.webp",
         "plugins": []
     },
     {
@@ -1324,7 +1332,7 @@
         "name": "Hwei",
         "tier": "b",
         "roles": ["mid"],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/13.24.1/img/champion/Hwei.webp",
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Hwei.webp",
         "plugins": []
     }
 ]
