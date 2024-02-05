@@ -1104,7 +1104,7 @@
     {
         "id": 901,
         "name": "Smolder",
-        "tier": "a",
+        "tier": "s",
         "roles": [
             "adc"
         ],
