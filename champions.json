@@ -97,7 +97,7 @@
     {
         "id": 136,
         "name": "AurelionSol",
-        "tier": "",
+        "tier": "d",
         "roles": [
             "mid"
         ],
@@ -1528,7 +1528,7 @@
     {
         "id": 950,
         "name": "Naafiri",
-        "tier": "",
+        "tier": "b",
         "roles": [
             "mid",
             "top",
@@ -1539,7 +1539,7 @@
     {
         "id": 233,
         "name": "Briar",
-        "tier": "",
+        "tier": "d",
         "roles": [
             "jungle"
         ],
