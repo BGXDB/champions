@@ -142,8 +142,10 @@
     {
         "id": 63,
         "name": "Brand",
-        "tier": "a",
+        "tier": "s",
         "roles": [
+            "jungle",
+            "mid",
             "support"
         ],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Brand.webp"
