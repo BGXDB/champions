@@ -285,8 +285,7 @@
         "name": "Fiddlesticks",
         "tier": "d",
         "roles": [
-            "jungle",
-            "support"
+            "jungle"
         ],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Fiddlesticks.webp"
     },
@@ -671,7 +670,7 @@
     {
         "id": 99,
         "name": "Lux",
-        "tier": "b",
+        "tier": "s",
         "roles": [
             "support",
             "mid"
@@ -1052,7 +1051,7 @@
     {
         "id": 98,
         "name": "Shen",
-        "tier": "c",
+        "tier": "b",
         "roles": [
             "top"
         ],
@@ -1124,7 +1123,7 @@
     {
         "id": 16,
         "name": "Soraka",
-        "tier": "b",
+        "tier": "a",
         "roles": [
             "support"
         ],
@@ -1313,7 +1312,7 @@
     {
         "id": 161,
         "name": "VelKoz",
-        "tier": "b",
+        "tier": "a",
         "roles": [
             "support",
             "mid"
