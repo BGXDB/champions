@@ -237,7 +237,7 @@
     {
         "id": 119,
         "name": "Draven",
-        "tier": "s",
+        "tier": "a",
         "roles": [
             "adc"
         ],
@@ -1201,7 +1201,7 @@
     {
         "id": 17,
         "name": "Teemo",
-        "tier": "s",
+        "tier": "a",
         "roles": [
             "top"
         ],
