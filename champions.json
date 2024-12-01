@@ -118,6 +118,8 @@
         "name": "Ambessa",
         "tier": "x",
         "roles": [
+            "top",
+            "jungle",
             "mid"
         ],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.23.1/img/champion/Ambessa.webp"
@@ -127,8 +129,6 @@
         "name": "Azir",
         "tier": "d",
         "roles": [
-            "top",
-            "jungle",
             "mid"
         ],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.23.1/img/champion/Azir.webp"
