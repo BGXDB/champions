@@ -104,13 +104,34 @@
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/AurelionSol.webp"
     },
     {
+        "id": 893,
+        "name": "Aurora",
+        "tier": "x",
+        "roles": [
+            "top",
+            "mid"
+        ],
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.23.1/img/champion/Aurora.webp"
+    },
+    {
+        "id": 799,
+        "name": "Ambessa",
+        "tier": "x",
+        "roles": [
+            "mid"
+        ],
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/AurelionSol.webp"
+    },
+    {
         "id": 268,
         "name": "Azir",
         "tier": "d",
         "roles": [
+            "top",
+            "jungle",
             "mid"
         ],
-        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Azir.webp"
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.23.1/img/champion/Ambessa.webp"
     },
     {
         "id": 432,
