@@ -1576,5 +1576,15 @@
             "support"
         ],
         "image": "https://static.bigbrain.gg/assets/lol/riot_static/14.2.1/img/champion/Hwei.webp"
+    },
+    {
+        "id": 800,
+        "name": "Mel",
+        "tier": "x",
+        "roles": [
+            "mid",
+            "support"
+        ],
+        "image": "https://static.bigbrain.gg/assets/lol/riot_static/15.3.1/img/champion/Mel.webp"
     }
 ]
